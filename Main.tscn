@@ -31,7 +31,7 @@ __meta__ = {
 }
 
 [node name="MobTimer" type="Timer" parent="."]
-wait_time = 0.5
+wait_time = 0.75
 
 [node name="ScoreTimer" type="Timer" parent="."]
 
